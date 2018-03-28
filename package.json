@@ -1,0 +1,18 @@
+{
+  "name": "gethistory",
+  "version": "1.0.0",
+  "description": "Get all Browser History and Parse output to CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Keenan",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.8.4",
+    "fsu": "^1.0.4",
+    "json2csv": "^4.0.2",
+    "node-browser-history": "^1.0.2",
+    "npm": "^5.7.1"
+  }
+}
